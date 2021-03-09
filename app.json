@@ -1,11 +1,11 @@
 {
-    "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp.",
+    "name": "Philippz-WA❤️ Special-Bot",
+    "description": "Philippz-WA❤️ Special-Bot.",
     "logo": "https://i.hizliresim.com/6Bbj7i.jpg",
-    "keywords": ["whatsapp", "userbot", "Asena"],
-    "repository": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "keywords": ["whatsapp", "public", "Asena"],
+    "repository": "https://github.com/philippz-wa/oombiya-bot",
+    "website":   "https://chat.whatsapp.com/H6vTxduOpLzKKynQzN86FV",
+    "success_url": "https://chat.whatsapp.com/H6vTxduOpLzKKynQzN86FV",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
